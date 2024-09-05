@@ -3,9 +3,11 @@
 Welcome to the Flashcard Generator! This application is designed to help you create and manage flashcards efficiently. Built with Next.js, Material UI, and the Gemini API, it offers a modern and user-friendly interface for all your flashcard needs.
 
 Access it [here](https://card-gen.rehantech.me/).
+
 Use test credationals:
-username: test
-password: test
+
+- **username**: test
+- **password**: test
 
 ## Features
 
@@ -22,7 +24,7 @@ To get started with the Flashcard Generator, follow these steps:
 
    ```bash
    git clone https://github.com/Abdur-Rehman-Rehan/card-gen.git
-   cd flashcard-generator
+   cd card-gen
    ```
 
 2. **Install Dependencies**
