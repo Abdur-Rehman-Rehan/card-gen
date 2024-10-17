@@ -3,6 +3,7 @@
 Welcome to the Flashcard Generator! This application is designed to help you create and manage flashcards efficiently. Built with Next.js, Material UI, and the Gemini API, it offers a modern and user-friendly interface for all your flashcard needs.
 
 Access it [here](https://card-gen.rehantech.me/).
+Watch Video Demo [here](https://youtu.be/rmv1hIYqSvk).
 
 Use test credationals:
 
